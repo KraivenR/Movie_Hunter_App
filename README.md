@@ -47,6 +47,6 @@ The app is divided into three distinct layers to ensure separation of concerns:
 ---
 
 ### Author
-Developed by **KraivenR** 
+Developed by **Kraiven Ribeiro** 
 - [GitHub](https://github.com/KraivenR)
 - Email: ribeirokraiven@gmail.com
